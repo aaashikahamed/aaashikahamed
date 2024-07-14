@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @aaashikahamed
+<h1 align="center"> A Aashik Ahamed </h1>
+<h3 align="center">Mern Stack | Django | InfoSec </h3>
+<hr >
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaashikahamed&label=Profile%20views&color=0e75b6&style=flat" alt="chamithkavinda" /> </p>
 
 
