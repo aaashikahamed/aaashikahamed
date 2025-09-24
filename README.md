@@ -1,42 +1,62 @@
-<h1 align="center"> A Aashik Ahamed </h1>
-<h3 align="center">Mern Stack | Django | InfoSec </h3>
-<hr >
+<h1 align="center">👋 Hey, I'm A Aashik Ahamed</h1>
+<h3 align="center">💻 Full Stack Developer | InfoSec Enthusiast</h3>
 
+<p align="center">
+  <a href="https://github.com/aaashikahamed">
+    <img src="https://komarev.com/ghpvc/?username=aaashikahamed&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaashikahamed&label=Profile%20views&color=0e75b6&style=flat" alt="chamithkavinda" /> </p>
+---
 
-<section>
-<h3>Tools and Languages </h3>
-  <h4>Languages</h4>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" height="40" margin-right=10px>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="40" margin-right=10px >
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="tailwind" height="40" margin-right=10px >
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="40" margin-right=10px>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReacjJS " height="40" margin-right=10px>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" margin-right=10px>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="VueJS" height="40" margin-right=10px>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" margin-right=10px>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django" height="40" margin-right=10px>
-    <img src="" alt="" height="40">
-    <img src="" alt="" height="40">
-  <h4> Tools </h4>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" height="40" margin-right=10px>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="" height="40" margin-right=10px>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="" height="40" margin-right=10px>
+## 🚀 Tech Arsenal  
 
-  
+### 🌐 Languages & Frameworks  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,vue,python,django" height="45" />
+</p>
 
+### 🛠 Tools & Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb,git,linux,vscode" height="45"/>
+</p>
 
+---
 
+## 📊 GitHub Stats  
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aaashikahamed&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aaashikahamed&theme=tokyonight" />
+</p>
 
-  </section>
-  <br />
-   <h3> 📊 My Github Stats</h3>
-   <span> <img alt="Aashik Ahamed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aaashikahamed&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <img alt="Aashik Ahamed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaashikahamed&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></span>
-  <br/>
- <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.-->
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaashikahamed&layout=compact&langs_count=8&card_width=360&theme=tokyonight" />
+</p>
 
+---
 
-<br/>
-<br/>
+## 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaashikahamed&theme=tokyo-night&bg_color=00000000&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aaashikahamed&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7" />
+</p>
+
+---
+
+## 💡 About Me  
+- 🛠 Building projects with **FullStack**  
+- 🔐 Exploring **InfoSec & Cybersecurity**  
+- 🌍 Always curious about **Web & App Performance Optimization**  
+- 🎯 Goal: To craft **scalable, secure & open-source friendly** projects  
+
+---
+
+<p align="center">
+  <i>“Code is meant to solve problems, not just pass compilers.”</i>
+</p>
