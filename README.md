@@ -12,9 +12,9 @@
 ## 🚀 Tech Arsenal  
 
 ### 🌐 Languages & Frameworks  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,vue,python,django" height="45" />
-</p>
+<!-- <p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs" height="45" />
+</p> -->
 
 ### 🛠 Tools & Databases  
 <p align="left">
