@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm A Aashik Ahamed</h1>
+<!-- <h1 align="center">👋 Hey, I'm A Aashik Ahamed</h1>
 <h3 align="center">💻 Full Stack Developer | InfoSec Enthusiast</h3>
 
 <p align="center">
@@ -16,10 +16,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs" height="45" />
 </p> -->
 
-### 🛠 Tools & Databases  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb,git,linux,vscode" height="45"/>
-</p>
+<!--  ### 🛠 Tools & Databases  -->
+<!-- <p align="left"> -->
+  <!-- <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb,git,linux,vscode" height="45"/> -->
+<!-- </p> --> -->
 
 ---
 
@@ -50,10 +50,11 @@
 ---
 
 ## 💡 About Me  
-- 🛠 Building projects with **FullStack**  
+<!-- - 🛠 Building projects with **FullStack**  
 - 🔐 Exploring **InfoSec & Cybersecurity**  
 - 🌍 Always curious about **Web & App Performance Optimization**  
-- 🎯 Goal: To craft **scalable, secure & open-source friendly** projects  
+- 🎯 Goal: To craft **scalable, secure & open-source friendly** projects  -->
+### Another techie!!!
 
 ---
 
