@@ -1,3 +1,11 @@
+## 💡 About Me  
+<!-- - 🛠 Building projects with **FullStack**  
+- 🔐 Exploring **InfoSec & Cybersecurity**  
+- 🌍 Always curious about **Web & App Performance Optimization**  
+- 🎯 Goal: To craft **scalable, secure & open-source friendly** projects  -->
+### Another techie!!!
+
+
 <!-- <h1 align="center">👋 Hey, I'm A Aashik Ahamed</h1>
 <h3 align="center">💻 Full Stack Developer | InfoSec Enthusiast</h3>
 
@@ -19,9 +27,9 @@
 <!--  ### 🛠 Tools & Databases  -->
 <!-- <p align="left"> -->
   <!-- <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb,git,linux,vscode" height="45"/> -->
-<!-- </p> --> -->
+<!-- </p> --> 
 
----
+<!-- --- -->
 
 ## 📊 GitHub Stats  
 <p align="center">
@@ -49,12 +57,6 @@
 
 ---
 
-## 💡 About Me  
-<!-- - 🛠 Building projects with **FullStack**  
-- 🔐 Exploring **InfoSec & Cybersecurity**  
-- 🌍 Always curious about **Web & App Performance Optimization**  
-- 🎯 Goal: To craft **scalable, secure & open-source friendly** projects  -->
-### Another techie!!!
 
 ---
 
