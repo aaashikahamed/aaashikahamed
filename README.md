@@ -31,7 +31,7 @@
 
 <!-- --- -->
 
-## 📊 GitHub Stats  
+<!-- ## 📊 GitHub Stats -->  
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=aaashikahamed&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aaashikahamed&theme=tokyonight" />
