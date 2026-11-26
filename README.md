@@ -37,9 +37,9 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aaashikahamed&theme=tokyonight" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaashikahamed&layout=compact&langs_count=8&card_width=360&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
